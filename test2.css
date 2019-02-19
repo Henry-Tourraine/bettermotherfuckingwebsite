@@ -1,0 +1,15 @@
+@@font-face {} /*papyrus blacklisted from font-squirrel font-face generator.*/
+body
+{
+  background-color: #FF00FF;
+}
+p
+{
+  color: blue;
+  font-family: "Papyrus", "Times New Roman";
+}
+h
+{
+  color: green;
+font-family: "Comic Sans";
+}
